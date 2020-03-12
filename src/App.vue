@@ -2,7 +2,7 @@
 
     <div :class="$style.app">
 
-        <a href="https://github.com/diancabral/curriculum" target="_blank" rel="noopener" class="github-corner" title="Ver código fonte no GitHub" aria-label="View source on Github">
+        <a href="https://github.com/chulesantos/curriculum" target="_blank" rel="noopener" class="github-corner" title="Ver código fonte no GitHub" aria-label="View source on Github">
 
             <svg width="80" height="80" viewBox="0 0 250 250" :style="{
 
@@ -34,7 +34,7 @@
 
                             <div :class="$style.profile__picture">
 
-                                <img src="./assets/avatar.jpg" alt="Dian Carlos">
+                                <img src="./assets/avatar.jpg" alt="Chule Cabral">
 
                             </div>
 
@@ -44,20 +44,20 @@
 
                     <div class="col-8 col-md-12">
 
-                        <div :class="$style.profile__name">Dian Carlos</div>
-                        <div :class="$style.profile__job">Front-End Web Developer</div>
+                        <div :class="$style.profile__name">Chule Cabral</div>
+                        <div :class="$style.profile__job">Back-End Developer</div>
 
                         <ul :class="$style.profile__contacts">
 
                             <li>
 
-                                <div :class="$style.profile__city">Campinas - SP</div>
+                                <div :class="$style.profile__city">Vila Velha - ES</div>
 
                             </li>
 
-                            <li :class="$style.profile__contacts__item"><a href="mailto:dian.cabral@gmail.com">dian.cabral@gmail.com</a></li>
-                            <li :class="$style.profile__contacts__item"><a href="tel:+5528999214097">(28) 9 9921 - 4097</a> (Vivo)</li>
-                            <li :class="$style.profile__contacts__item"><a href="https://wa.me/5528999214097" target="_blank" rel="noopener">https://wa.me/5528999214097</a> (WhatsApp)</li>
+                            <li :class="$style.profile__contacts__item"><a href="mailto:chulesantos@outlook.com">chulesantos@outlook.com</a></li>
+                            <li :class="$style.profile__contacts__item"><a href="tel:+5528999214097">(27) 9 99705 - 4506</a> (Vivo)</li>
+                            <li :class="$style.profile__contacts__item"><a href="https://wa.me/5528999214097" target="_blank" rel="noopener">https://wa.me/5527997054506</a> (WhatsApp)</li>
 
                         </ul>
 
@@ -99,7 +99,7 @@
 
                 />
 
-                <div :class="$style.dev">Desenvolvido com <i class="material-icons" :class="$style.dev__icon">favorite</i> em Vila Velha - ES e Campinas - SP.</div>
+                <div :class="$style.dev">Desenvolvido com <i class="material-icons" :class="$style.dev__icon">favorite</i> em Vila Velha - ES.</div>
 
             </div>
 
