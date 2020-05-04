@@ -1,14 +1,14 @@
 ## Bio
 
-Meu nome é Chule Cabral dos Santos, tenho 30 anos e moro em Vila Velha - ES. Sou um Back-End Developer com mais de 2 anos de experiência em desenvolvimento ao lado do servidor e com mais de 5 anos como Analista de Sistemas.
+Meu nome é Chule Cabral dos Santos, tenho 30 anos e moro em Vila Velha - ES. Sou um Back-End Developer com mais de 2 anos de experiência em desenvolvimento e com 5 anos como Analista de Sistemas.
 
-Trabalho com desenvolvimento de rotinas automatizadas, webservices, integrações, rotas para Front-End, manipulação de querys em banco de dados, relatórios (operacionais, gerencias e administrativos).
+Trabalho com desenvolvimento de rotinas automatizadas, webservices, integrações, API's, manipulação de querys em banco de dados, relatórios (operacionais, gerencias e administrativos).
 
-Possuo conhecimento intermediário em SQL / PLSQL, logo, desenvolvo views, triggers, procedures, functions, sequences, conforme a necessidade.
+Possuo conhecimento em SQL / PLSQL, logo, desenvolvo views, triggers, procedures, functions, sequences, conforme a necessidade.
 
-Procuro sempre está utilizando ferramentas para auxiliar no desenvolvimento, prezando sempre na otimização e clareza do código, para criar produtos de qualidade e com alto desempenho.
+No desenvolvimento, sempre prezo pela otimização e clareza do código, para criar produtos de qualidade e com alto desempenho.
 
-Trabalho bem equipe e em home office (caso necessário). Gosto de ensinar, explicar oque está sendo desenvolvido, proporcionando assim uma melhor ligação com toda equipe.
+Trabalho bem em equipe, presencialmente e em home office (se necessário). Gosto de ensinar, explicar oque está sendo desenvolvido, proporcionando assim uma melhor ligação com toda equipe.
 
 
 <br>
