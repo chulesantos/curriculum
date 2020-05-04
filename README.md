@@ -1,1 +1,1 @@
-https://github.com/diancabral/curriculum/blob/master/docs/
+https://github.com/chulesantos/curriculum/blob/master/docs/
