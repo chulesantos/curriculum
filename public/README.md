@@ -1,6 +1,15 @@
 ## Bio
 
-Oi eu sou o Goku!
+Meu nome é Chule Cabral dos Santos, tenho 30 anos e moro em Vila Velha - ES. Sou um Back-End Developer com mais de 2 anos de experiência em desenvolvimento ao lado do servidor e com mais de 5 anos como Analista de Sistemas.
+
+Trabalho com desenvolvimento de rotinas automatizadas, webservices, integrações, rotas para Front-End, manipulação de querys em banco de dados, relatórios (operacionais, gerencias e administrativos).
+
+Possuo conhecimento intermediário em SQL / PLSQL, logo, desenvolvo views, triggers, procedures, functions, sequences, conforme a necessidade.
+
+Procuro sempre está utilizando ferramentas para auxiliar no desenvolvimento, prezando sempre na otimização e clareza do código, para criar produtos de qualidade e com alto desempenho.
+
+Trabalho bem equipe e em home office (caso necessário). Gosto de ensinar, explicar oque está sendo desenvolvido, proporcionando assim uma melhor ligação com toda equipe.
+
 
 <br>
 
@@ -25,6 +34,7 @@ Atualmente, tenho experiência, conhecimento básico ou avançado nas seguintes 
 * PostgreSQL
 * Electron
 * MongoDB
+* Mongoose ODM
 * NPM
 * Express
 * Composer
@@ -51,11 +61,11 @@ Cargo: Analista / Programador Back-End
 
 <br>
 
-Em minha experiência profissional anterior, eu desenvolvi alguns sistemas para atender necessidades específicas de alguns setores, tendo em vista que a equipe de desenvolvimento estava sobrecarregada. Mas nada se compara a Pharmanexo, onde minha minha carreira como Desenvolver Back-End iniciou.
+A empresa que me deu a oportunidade de iniciar minha jornada como Desenvolver Back-End.
 
-Como meu emprego atual, tenho a oportunidade de aplicar práticas de Análise de Sistemas e Densenvolver Micro APIS conforme a demanda solicitada.
+Tenho a oportunidade de aplicar práticas de Análise de Sistemas e Densenvolver Micro Services conforme a demanda.
 
-Participo de projetos, metodologias de trabalho, ideias para novas funcionalidades e rotinas. Participo de algumas decisões de DevOps e Data Base.
+Participo de projetos, metodologias de trabalho, ideias para novas funcionalidades e rotinas.
 
 Tenho liberdade de utilizar ferramentas e linguagens de programação conforme minha necessidade, desde que atenda o esperado.
 
