@@ -1,6 +1,6 @@
 ## Bio
 
-Meu nome é Chule Cabral dos Santos, tenho 30 anos e moro em Vila Velha - ES. Sou um Back-End Developer com mais de 2 anos de experiência em desenvolvimento e com 5 anos como Analista de Sistemas.
+Meu nome é Chule Cabral dos Santos, tenho 30 anos e moro em Vila Velha - ES. Tenho mais de 4 anos de experiência como Analista de Sistemas e atuo como Desenvolvedor Back-End a mais de 2 anos.
 
 Trabalho com desenvolvimento de rotinas automatizadas, webservices, integrações, API's, manipulação de querys em banco de dados, relatórios (operacionais, gerencias e administrativos).
 
@@ -61,7 +61,7 @@ Cargo: Analista / Programador Back-End
 
 <br>
 
-A empresa que me deu a oportunidade de iniciar minha jornada como Desenvolver Back-End.
+A empresa que me deu a oportunidade de iniciar minha jornada como Desenvolvedor Back-End.
 
 Tenho a oportunidade de aplicar práticas de Análise de Sistemas e Densenvolver Micro Services conforme a demanda.
 
@@ -105,19 +105,19 @@ Participei de projetos, inovações, desenvolvi sistemas, ajudei em melhorias op
 
 <br>
 
-***Principais atividades desenvolvidas***
+***Principais atividades***
 
-Apoiei os usuários dos Sistemas Informatizados, acompanhando e controlando a execução das atividades de forma a atender as demandas da empresa de acordo com os padrões estabelecidos; 
+Apoiar os usuários dos Sistemas Informatizados, acompanhar e controlar a execução das atividades de forma a atender as demandas da empresa de acordo com os padrões estabelecidos; 
 
 Desenvolvimento e validação de documentações complementares, como helps, manuais, instruções de operação ou de acertos de consistência; 
 
 Desenvolvimento de relatórios assistenciais e operacionais conforme solicitados, utilizando ferramentas de Banco de Dados Oracle e MySQL; 
 
-Identicação de erros nos Sistemas Informatizados, documentá-los conforme definido pela empresa prestadora de acordo com a necessidade do usuário; 
+Identificar erros nos Sistemas Informatizados e documentá-los, conforme definido pela empresa prestadora de acordo com a necessidade do usuário; 
 
-Ministrei treinamentos, instruções de trabalho, definidos para um uso adequado dos Sistemas e/ou equipamentos disponibilizados pela empresa; 
+Ministrar treinamentos e instruções de trabalho, definidos para um uso adequado dos Sistemas e/ou equipamentos disponibilizados pela empresa; 
 
-Levantamento de requisitos, análise de situações, realizei e/ou acompanhei simulações nos Sistemas Informatizados. 
+Levantamento de requisitos, análise de situações e realização / acompanhamento de simulações nos Sistemas Informatizados. 
 
 <br>
 

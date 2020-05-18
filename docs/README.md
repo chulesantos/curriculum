@@ -1,98 +1,131 @@
 ## Bio
 
-Meu nome é Dian Carlos, tenho 25 anos e moro em Campinas - SP. Sou um Front-End Web Developer com mais de 8 anos de experiência profissional.
+Meu nome é Chule Cabral dos Santos, tenho 30 anos e moro em Vila Velha - ES. Tenho mais de 4 anos de experiência como Analista de Sistemas e atuo como Desenvolvedor Back-End a mais de 2 anos.
 
-Trabalho com desenvolvimento de produtos baseados em web, como sistemas, lojas virtuais e gerenciadores de conteúdo (áreas administrativas), de pequeno à grande porte. Possuo conhecimento também em back-end, então entendo a maioria das coisas que acontecem nesse lado, como banco de dados, API's e etc, isso ajuda bastante na tomada de decisões.
+Trabalho com desenvolvimento de rotinas automatizadas, webservices, integrações, API's, manipulação de querys em banco de dados, relatórios (operacionais, gerencias e administrativos).
 
-No meu trabalho procuro sempre usar as melhores tecnologias de desenvolvimento disponíveis, para criar produtos de qualidade e com alto desempenho. Além disso, prezo muito pela beleza dos produtos, tendo cuidado a um nível milimétrico. Gosto de criar coisas belas, porém objetivas, que enchem os olhos de quem vê. Tudo isso somado faz com que o usuário final tenha uma ótima experiência e que o produto obtenha um grande destaque entre outros.
+Possuo conhecimento em SQL / PLSQL, logo, desenvolvo views, triggers, procedures, functions, sequences, conforme a necessidade.
 
-Fico muito bem a vontade trabalhando em equipe e sempre estou me atualizando com novas técnicas, ferramentas e tecnologias que vão surgindo no mundo do desenvolvimento. Partilhar conhecimento com todos é uma coisa que faço com prazer.
+No desenvolvimento, sempre prezo pela otimização e clareza do código, para criar produtos de qualidade e com alto desempenho.
+
+Trabalho bem em equipe, presencialmente e em home office (se necessário). Gosto de ensinar, explicar oque está sendo desenvolvido, proporcionando assim uma melhor ligação com toda equipe.
+
 
 <br>
 
 ## Skills
 
-Atualmente, tenho experiência nas seguintes tecnologias, ferramentas, serviços online e frameworks:
+Atualmente, tenho experiência, conhecimento básico ou avançado nas seguintes tecnologias, ferramentas, serviços online e frameworks:
 
 * HTML5
 * CSS3
-* SASS
-* Less
-* Bootstrap 4
+* Bootstrap 3.*
 * JavaScript (ES6)
-* Canvas
-* Vue.js (vuex, vue-resource, vue-router)
-* PHP7
-* Phalcon PHP
-* JSON Web Token (JWT)
-* MySQL
+* PHP7.*
+* Python 3.*
 * NodeJS
+* CodeIgniter 3 (PHP)
+* JSON Web Token (JWT)
+* Linux
+* Shell Script
+* Ubuntu Server
+* Oracle DB (SQL / PLSQL)
+* MySQL
+* PostgreSQL
+* Electron
 * MongoDB
-* Express
-* Socket.io
+* Mongoose ODM
 * NPM
-* Yarn
-* Grunt
-* webpack
-* Modernizr
+* Express
 * Composer
+* Docker
 * Git (GitHub e BitBucket)
-* Amazon Web Services (S3, CloudFront e SNS)
-* Google Fonts
-* Google Analytics
+* Amazon Web Services (AWS, S3, EC2)
+* PHP Storm
+* Data Grip
+* Visual Studio Code
+* Anaconda
 * Atom
 * XAMPP
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe XD
-* Azure Dev Ops
+* LAMP
 
 <br>
 
 ## Experiência Profissional
 
-**2020 - Atual**  
-**inGaia**
-[https://www.ingaia.com.br](https://www.ingaia.com.br)
-Campinas - SP
-Cargo: Desenvolvedor Front- End Sênior
-
-**2018 - 2020**  
-**e.Mix - Serviços Inteligentes em Comércio Exterior**
-[https://emix.com.br](https://emix.com.br)
-Campinas - SP
-Cargo: Desenvolvedor Front- End Sênior
+**2019 - Atual**  
+**Pharmanexo Intermediadora de Negócios**
+[https://pharmanexo.com.br](https://pharmanexo.com.br)
+Vitória - ES
+Cargo: Analista / Programador Back-End
 
 <br>
 
-**2012 - 2018**  
-**Arco Websites & E-commerce**
-[http://arcoinformatica.com.br](http://arcoinformatica.com.br)
-Cachoeiro de Itapemirim - ES  
-Cargo: Desenvolvedor Full Stack Sênior
+A empresa que me deu a oportunidade de iniciar minha jornada como Desenvolvedor Back-End.
 
-Aqui fui responsável pelo desenvolvimento de sites para várias grandes empresas, tanto individualmente como em equipe. Também obtive grande experiência em atendimento ao cliente, suporte técnico e design.
+Tenho a oportunidade de aplicar práticas de Análise de Sistemas e Densenvolver Micro Services conforme a demanda.
 
-Tive o prazer de desenvolver o site da Ordem dos Advogados do Brasil Seccional Espírito Santo - OAB-ES ([http://oabes.org.br](http://oabes.org.br)) com sede em Vitória - ES.
+Participo de projetos, metodologias de trabalho, ideias para novas funcionalidades e rotinas.
 
-Participei no desenvolvimento da plataforma de e-commerce da empresa e com ela várias lojas virtuais. Destaco o Prático Supermercado Online ([https://praticosupermercado.com.br](https://praticosupermercado.com.br)) que foi o primeiro supermercado 100% online de Cachoeiro de Itapemirim - ES.
-
-Também criei o design e desenvolvi muitos sites de imobiliárias. Destaco o site da Renê Empreendimentos Imobiliários ([http://reneweb.com.br](https://reneweb.com.br)) que é uma das maiores imobiliárias da região sul do ES.
+Tenho liberdade de utilizar ferramentas e linguagens de programação conforme minha necessidade, desde que atenda o esperado.
 
 <br>
 
-**2010**  
-**Q.I. Virtual**  
-Mimoso do Sul - ES  
-Cargo: Auxiliar de Foto Estúdio
+***Principais atividades***
 
-Foi uma experiência rápida, porém aprendi muito sobre edição de imagens e fotografia. Foi aqui que iniciei profissionalmente a minha caminhada no mundo do desenvolvimento quando criei o site da empresa.
+Desenvolvimento de APIS REST, utilizando linguagem de programação PHP 7.* e NodeJs;
+
+Desenvolvimento de serviços automátizados, cuja a função é auxiliar em determinada demanda;
+
+Criação de tabelas, rotinas e funções em Banco de Dados MySQL e Postgres;
+
+Desenvolvimento de relatórios administrativos conforme solicitados, utilizando ferramentas de Banco de Dados Postgres e MySQL; 
+
+Integração com fornecedores externos, utilizando WEB Services SOAP, REST, ou acesso a FTP.
+
+Desenvolvimento de logs de aplicação.
+
+Auxilio aos desenvolvedores Front-End nas rotinas de trabalho.
+
+<br>
+
+**2012 - 2019**  
+**Vitória Apart Hospital SA**
+[http://vitoriaaparthospital.com.br](http://vitoriaaparthospital.com.br)
+Serra - ES  
+Cargo: Analista de Sistemas Jr
+
+<br>
+
+Tive o prazer de trabalhar em um dos maiores complexos hospitalares do estado do Espirito Santo.
+
+Não iniciei minha jornada como Analista de Sistemas, mas, ao longo da carreira, fui me adequando à empresa e aos seus propósitos.
+
+Participei de projetos, inovações, desenvolvi sistemas, ajudei em melhorias operacionais e computacionais, recebi desafios, trabalhei em equipe, dei ideias, amadureci pessoalmente e profissionalmente.
+
+<br>
+
+***Principais atividades***
+
+Apoiar os usuários dos Sistemas Informatizados, acompanhar e controlar a execução das atividades de forma a atender as demandas da empresa de acordo com os padrões estabelecidos; 
+
+Desenvolvimento e validação de documentações complementares, como helps, manuais, instruções de operação ou de acertos de consistência; 
+
+Desenvolvimento de relatórios assistenciais e operacionais conforme solicitados, utilizando ferramentas de Banco de Dados Oracle e MySQL; 
+
+Identificar erros nos Sistemas Informatizados e documentá-los, conforme definido pela empresa prestadora de acordo com a necessidade do usuário; 
+
+Ministrar treinamentos e instruções de trabalho, definidos para um uso adequado dos Sistemas e/ou equipamentos disponibilizados pela empresa; 
+
+Levantamento de requisitos, análise de situações e realização / acompanhamento de simulações nos Sistemas Informatizados. 
 
 <br>
 
 ## Formação Acadêmica
 
-**Graduação em Análise e Desenvolvimento de Sistemas**  
-Faculdade Multivix - Cachoeiro de Itapemirim - ES  
-Início em 2015 (Atualmente estou com a matrícula trancada)  
-3º Período completo
+**Graduação em Sistemas de Informação**  
+[https://faesa.br](https://faesa.br)
+Conclusão: 2019
+Centro Universitário FAESA - Vitória - ES  
+
+
