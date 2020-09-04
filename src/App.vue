@@ -57,7 +57,7 @@
 
                             <li :class="$style.profile__contacts__item"><a href="mailto:chulesantos@outlook.com">chulesantos@outlook.com</a></li>
                             <li :class="$style.profile__contacts__item"><a href="tel:+5528999214097">(27) 9 9705 - 4506</a> (Vivo)</li>
-                            <li :class="$style.profile__contacts__item"><a href="https://wa.me/5528999214097" target="_blank" rel="noopener">https://wa.me/5527997054506</a> (WhatsApp)</li>
+                            <li :class="$style.profile__contacts__item"><a href="https://wa.me/5527997054506" target="_blank" rel="noopener">https://wa.me/5527997054506</a> (WhatsApp)</li>
 
                         </ul>
 
