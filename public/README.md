@@ -20,10 +20,10 @@ Atualmente, tenho experiência, conhecimento básico ou avançado nas seguintes 
 * HTML5
 * CSS3
 * Bootstrap 3.*
-* JavaScript (ES6)
+* JavaScript
 * PHP7.*
 * Python 3.*
-* NodeJS
+* NodeJS (Back End)
 * CodeIgniter 3 (PHP)
 * JSON Web Token (JWT)
 * Linux
@@ -39,7 +39,7 @@ Atualmente, tenho experiência, conhecimento básico ou avançado nas seguintes 
 * Express
 * Composer
 * Docker
-* Dockerfile
+* Docker Compose
 * Git (GitHub e BitBucket)
 * Amazon Web Services (AWS, S3, EC2)
 * PHP Storm
