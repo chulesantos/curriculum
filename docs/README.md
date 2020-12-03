@@ -12,45 +12,33 @@ Trabalho bem em equipe, presencialmente e em home office (se necessário). Gosto
 
 
 <br>
+<br>
+<br>
 
 ## Skills
 
 Atualmente, tenho experiência, conhecimento básico ou avançado nas seguintes tecnologias, ferramentas, serviços online e frameworks:
 
-* HTML5
-* CSS3
-* Bootstrap 3.*
-* JavaScript
-* PHP7.*
-* Python 3.*
-* NodeJS (Back End)
-* CodeIgniter 3 (PHP)
-* JSON Web Token (JWT)
-* Linux
-* Shell Script
-* Ubuntu Server
-* Oracle DB (SQL / PLSQL)
-* MySQL
-* PostgreSQL
-* Electron
-* MongoDB
-* Mongoose ODM
-* NPM
-* Express
-* Composer
-* Docker
-* Docker Compose
+* Web (HTML5, CCS3, JavaScript, Bootstrap, Electron Desktop)
+* PHP7.* (OO, Laravel, CodeIgniter3, Composer, ORM, Design Patterns, Testes)
+* NodeJS (OO, NPM, Express, GraphQL, Mongoose, JSON Web Token, Testes)
+* Linux (Ubuntu Server, Shell Script, Packages)
+* Docker (DockerFile, Docker Compose, Docker Hub)
+* Banco D Relacional (Oracle, Postgres, MySQL)
+* Banco D NoSQL (MongoDB)
+* Integração (REST API, SOAP, FTP)
 * Git (GitHub e BitBucket)
+* Metodologia Ágil (Scrum, Kanban)
 * Amazon Web Services (AWS, S3, EC2)
-* PHP Storm
-* Data Grip
-* Visual Studio Code
-* Anaconda
-* Atom
-* XAMPP
-* LAMP
+* Ferramentas (PHP Storm, DataGrip, Visual Studio Code, Atom, Anaconda)
+* Serviços (XAMPP, LAMP)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+  
 
 ## Experiência Profissional
 
